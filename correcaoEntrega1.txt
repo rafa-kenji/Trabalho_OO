@@ -1,0 +1,41 @@
+Pontos positivos: 
+
++ Uso de pacotes, ainda que apenas um pacote tenha sido apresentado. 
+
+
+
+Pontos negativos: 
+
+- Falta a principal classe da aplicação: Republica. (-10%)
+- Não são apresentadas a(s) classe(s) Categoria / Subcategoria. (-10%)
+- Não tem indício algum de como serão realizados os calculos de divisão de
+  despesas conforme regras igualitária e proporcional.  (-10%)
+- Onde são armazenados (referenciados) os objetos do tipo Aluno, criados durante
+  a execuçao da aplicação? (-10%)
+
+- Não há multiplicidade informada na única associação apresentada. (-10%)
+- A relação Despesa --> Aluno não atende ao propósito do trabalho. (-10%)
+- Não há relação de Aluno com uma República. (-10%)
+- Não há relação de Despesa com uma República. (-10%)
+
+
+
+Dúvidas: 
+
+
+
+
+
+Comentários: 
+
+O trabalho está em um nível muito inicial. É preciso que a dupla se reuna e faça
+uma reestruturação completa do trabalho, seguida por uma elaboração mais
+profunda do projeto. Há muito trabalho por fazer e o escopo do exercício é
+grande, portanto, programem-se para reunir e focar no desenvolvimento do
+trabalho. 
+
+
+
+
+Nota: 
+20/100 pontos.
