@@ -1,0 +1,31 @@
+Criterios: 
+ * Crit. 1 - Os cadastros funcionam adequadamente?:  NOK
+ * Crit. 2 - Excecoes sao lancadas adequadamente?:  NOK
+ * Crit. 3 - Associações sao realizadas adequadamente?: NOK
+ * Crit. 4 - Calculos estao corretos?:  NOK
+
+Pontos positivos: 
+
+
+
+
+
+Pontos negativos: 
+
+
+
+
+
+Dúvidas: 
+
+
+
+
+
+Comentários: 
+ Trabalho não foi entregue, pasta src vazia. 
+
+
+
+Nota: 
+0/100 pontos.
